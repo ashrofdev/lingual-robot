@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+}
+.header h1 {
+    background-clip: text;
+    font-size: 4rem;
+    color: transparent;
+    letter-spacing: 1rem;
+    transform: rotate(-3deg);
+    font-family: 'Courier New', Courier, monospace;
+    background-image: linear-gradient(to right, var(--csl), var(--cs));
+    text-shadow: .2rem .2rem .5rem green;
+}

@@ -1,0 +1,16 @@
+:root {
+    --cp: rgba(15, 15, 15, 0.938);
+    --cpl: rgba(5, 5, 5, 0.87);
+    --csl: rgb(128, 245, 112);
+    --cs: rgb(14, 94, 3);
+}
+
+body {
+    background-image: linear-gradient(to right, var(--cpl), var(--cp)), url(./dic.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
