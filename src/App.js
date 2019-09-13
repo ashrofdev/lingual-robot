@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import './App.css';
 import 'font-awesome/css/font-awesome.min.css'
 import Header from './components/Header/Header';
+import List from './components/Definitions/List';
 
 class App extends Component {
   constructor(props){
@@ -37,6 +38,7 @@ class App extends Component {
       <div className="App">
         <div className="container">
           <Header onSearch={this.onSearch}/>
+          <List outcome={this.state.outcome}/>
         </div>
       </div>
     );
