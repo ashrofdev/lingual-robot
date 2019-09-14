@@ -1,9 +1,11 @@
 import React from 'react'
 
-const Definition = ({definition}) => {
+const Definition = ({definition, example, author}) => {
     return (
         <div className="definition">
-            <p>{definition}</p>
+            <p className="def">{'Definition: '+ definition}</p>
+            <p>{'Example: '+ example}</p>
+            <p>{'Author: '+ author}</p>
         </div>
     )
 }
