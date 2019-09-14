@@ -42,6 +42,9 @@ class App extends Component {
         <div className="container">
           <Header onSearch={this.onSearch}/>
           <List outcome={this.state.outcome} search={this.state.search}/>
+          <footer>
+            &copy; By Ashraf. Powered by Rapid API
+          </footer>
         </div>
       </div>
     );

@@ -12,5 +12,19 @@ body {
     background-position: center;
     background-attachment: fixed;
 }
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
 
 
+footer {
+    background-color: black;
+    color: gray;
+    font-size: .8rem;
+    padding: 1rem 0;
+    text-align: center;
+    justify-self: flex-end;
+}
