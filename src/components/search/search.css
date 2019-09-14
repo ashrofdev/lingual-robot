@@ -21,3 +21,13 @@ button {
         width: 15rem;
     }
 }
+@media only screen and (max-width: 400px) {
+    input {
+        width: 10rem;
+        height: 1rem;
+        font-size: 1rem;
+    }
+    button {
+        padding: 1rem 1.3rem;
+    }
+}
