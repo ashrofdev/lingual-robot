@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.b45df2f6.chunk.css",
-    "main.js": "/repository-name/static/js/main.eba3910e.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.eba3910e.chunk.js.map",
-    "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
-    "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
-    "static/css/2.1416e129.chunk.css": "/repository-name/static/css/2.1416e129.chunk.css",
-    "static/js/2.40a8b625.chunk.js": "/repository-name/static/js/2.40a8b625.chunk.js",
-    "static/js/2.40a8b625.chunk.js.map": "/repository-name/static/js/2.40a8b625.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.84d1b6dd5d822d6c4f0aaec3a0d7d4a1.js": "/repository-name/precache-manifest.84d1b6dd5d822d6c4f0aaec3a0d7d4a1.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/2.1416e129.chunk.css.map": "/repository-name/static/css/2.1416e129.chunk.css.map",
-    "static/css/main.b45df2f6.chunk.css.map": "/repository-name/static/css/main.b45df2f6.chunk.css.map",
-    "static/media/font-awesome.min.css": "/repository-name/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/lingual-robot/static/css/main.b45df2f6.chunk.css",
+    "main.js": "/lingual-robot/static/js/main.4ea0fb7b.chunk.js",
+    "main.js.map": "/lingual-robot/static/js/main.4ea0fb7b.chunk.js.map",
+    "runtime~main.js": "/lingual-robot/static/js/runtime~main.e1ddff78.js",
+    "runtime~main.js.map": "/lingual-robot/static/js/runtime~main.e1ddff78.js.map",
+    "static/css/2.8e07c7cb.chunk.css": "/lingual-robot/static/css/2.8e07c7cb.chunk.css",
+    "static/js/2.40a8b625.chunk.js": "/lingual-robot/static/js/2.40a8b625.chunk.js",
+    "static/js/2.40a8b625.chunk.js.map": "/lingual-robot/static/js/2.40a8b625.chunk.js.map",
+    "index.html": "/lingual-robot/index.html",
+    "precache-manifest.7f97d9000764979433a36de03dcc1115.js": "/lingual-robot/precache-manifest.7f97d9000764979433a36de03dcc1115.js",
+    "service-worker.js": "/lingual-robot/service-worker.js",
+    "static/css/2.8e07c7cb.chunk.css.map": "/lingual-robot/static/css/2.8e07c7cb.chunk.css.map",
+    "static/css/main.b45df2f6.chunk.css.map": "/lingual-robot/static/css/main.b45df2f6.chunk.css.map",
+    "static/media/font-awesome.min.css": "/lingual-robot/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
