@@ -12,7 +12,18 @@ class App extends Component {
       outcome: []
     }
   }
-  onSearch =  () => {
+
+  componentDidMount(){
+    window.addEventListener('keypress', (e) =>{
+      console.log(e.key)
+      if (e.key === 'Enter') {
+        this.search()
+      }
+    })
+  }
+
+  search=()=>{
+    document.querySelector('.list').classList.remove('animate')
     console.log('loading...')
     this.setState({search: document.querySelector('input').value})
     setTimeout( async () => {
@@ -27,6 +38,7 @@ class App extends Component {
         return response.json()
       })
       .then(data => {
+        document.querySelector('.list').classList.add('animate')
         this.setState({outcome: data.list})
         console.log(data.list)
       })
@@ -34,6 +46,10 @@ class App extends Component {
         console.log(err);
       });
     }, 10);
+  }
+
+  onSearch =  () => {
+    this.search()
   }
 
   render(){

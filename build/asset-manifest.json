@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.b45df2f6.chunk.css",
+    "main.js": "/repository-name/static/js/main.eba3910e.chunk.js",
+    "main.js.map": "/repository-name/static/js/main.eba3910e.chunk.js.map",
+    "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
+    "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
+    "static/css/2.1416e129.chunk.css": "/repository-name/static/css/2.1416e129.chunk.css",
+    "static/js/2.40a8b625.chunk.js": "/repository-name/static/js/2.40a8b625.chunk.js",
+    "static/js/2.40a8b625.chunk.js.map": "/repository-name/static/js/2.40a8b625.chunk.js.map",
+    "index.html": "/repository-name/index.html",
+    "precache-manifest.958652cbe48122d813cefa2d0f112c2b.js": "/repository-name/precache-manifest.958652cbe48122d813cefa2d0f112c2b.js",
+    "service-worker.js": "/repository-name/service-worker.js",
+    "static/css/2.1416e129.chunk.css.map": "/repository-name/static/css/2.1416e129.chunk.css.map",
+    "static/css/main.b45df2f6.chunk.css.map": "/repository-name/static/css/main.b45df2f6.chunk.css.map",
+    "static/media/font-awesome.min.css": "/repository-name/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
