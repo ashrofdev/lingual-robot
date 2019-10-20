@@ -9,6 +9,7 @@ const Header = ({onSearch}) => {
         <div className="header">
             <h1>LINGUAL ROBOT</h1>
             <Search onSearch={onSearch}/>
+            <img className="loader" src={require('./3.gif')}/>
         </div>
     )
 }

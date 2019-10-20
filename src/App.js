@@ -23,6 +23,7 @@ class App extends Component {
   }
 
   search=()=>{
+    document.querySelector('.loader').classList.add('load')
     document.querySelector('.list').classList.remove('animate')
     console.log('loading...')
     this.setState({search: document.querySelector('input').value})
@@ -41,6 +42,7 @@ class App extends Component {
         document.querySelector('.list').classList.add('animate')
         this.setState({outcome: data.list})
         console.log(data.list)
+        document.querySelector('.loader').classList.remove('load')
       })
       .catch(err => {
         console.log(err);
